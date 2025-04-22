@@ -14,3 +14,10 @@ Notre groupe de 4 personnes, c'est chargé de la famille sécurité et confident
 _Maquette_
 
 ![maquette](./public/assets/Maquette.png)
+
+_Projet Final_
+
+![famille entete](./public/assets/famille_entete.png)
+![famille presentation](./public/assets/famille_presentation.png)
+![famille biographie](./public/assets/famille_biographie.png)
+![famille footer](./public/assets/famille_footer.png)
